@@ -89,13 +89,6 @@
 
 ---
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
 ### 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sp7567&show_icons=true&theme=radical" alt="Martand's GitHub Stats" height="165"/>
