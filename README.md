@@ -5,8 +5,9 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ef4444&lines=Welcome+to+my+GitHub+profile!;Building+future-ready+tech+solutions.;Coding+my+dreams+into+reality.;&center=true&width=500&height=50" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Welcome+to+my+GitHub+profile!;Building+future-ready+tech+solutions.;Coding+my+dreams+into+reality.;&center=true&width=500&height=50" alt="Typing SVG">
 </div>
+
 
 ---
 ### 🌟 About Me
