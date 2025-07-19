@@ -1,6 +1,8 @@
-<h1 align="center">Hi there 👋, I'm <span style="color: #4ade80;">Shreyash Padase</span></h1><h1 align="center">Hi there 👋, I'm <span style="color: #4ade80;">Shreyash Padase</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color: #4ade80;">Shreyash Padase</span></h1>
+
 <h3 align="center">🚀 Full-Stack Developer | 🛠️ Robotics Enthusiast | ☁️ DevOps</h3>
 
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ef4444&lines=Welcome+to+my+GitHub+profile!;Building+future-ready+tech+solutions.;Coding+my+dreams+into+reality.;&center=true&width=500&height=50" alt="Typing SVG">
