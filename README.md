@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm <span style="color: #4ade80;">Shreyash Padase</span></h1>
-
 <h3 align="center">🚀 Full-Stack Developer | 🛠️ Robotics Enthusiast | ☁️ DevOps</h3>
 
 ---
