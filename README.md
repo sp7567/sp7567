@@ -1,10 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:4ade80&height=200&section=header&text=Shreyash%20Padase&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Robotics%20Engineer%20%7C%20Cloud%20%26%20DevOps&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Header banner" />
+<h1>Hi, I'm Shreyash Padase 👋</h1>
+<h3>Full-Stack Developer &nbsp;|&nbsp; Robotics Engineer &nbsp;|&nbsp; Cloud &amp; DevOps</h3>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=700&height=45&lines=Building+future-ready+tech+solutions;Full-Stack+%7C+Cloud+%7C+Robotics+%7C+IoT;Turning+real-world+problems+into+scalable+code" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=900&height=45&lines=Building+future-ready+tech+solutions;Full-Stack+%7C+Cloud+%7C+Robotics+%7C+IoT;Turning+real-world+problems+into+scalable+code" alt="Typing animation" />
 </a>
 
 <br/>
@@ -21,8 +22,8 @@
 
 I'm a **Full-Stack Developer** with a strong foundation in **robotics and embedded systems**, now focused on building scalable web applications and cloud-native infrastructure. I enjoy taking an idea from hardware prototype or database schema all the way to a deployed, production-ready product.
 
-| | |
-|---|---|
+| Area | Details |
+|:--|:--|
 | 🎯 **Focus** | Scalable web apps, cloud infrastructure, intelligent automation |
 | 🌱 **Currently Learning** | MERN advanced patterns, AWS architecture, AI for Robotics |
 | 💬 **Ask Me About** | React, Node.js, Express, AWS, Robotics, IoT |
@@ -171,7 +172,5 @@ I'm a **Full-Stack Developer** with a strong foundation in **robotics and embedd
 <br/>
 
 > ✨ *"यतो भावस्ततो भवः – As is your emotion, so becomes your reality."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:4ade80&height=120&section=footer" width="100%" alt="Footer banner" />
 
 </div>
